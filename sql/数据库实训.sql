@@ -1,8 +1,8 @@
-drop database if exists databasetest;
+drop database if exists javaweb_db;
 
-create database databasetest;
+create database javaweb_db;
 
-use databasetest;
+use javaweb_db;
 
 drop table if exists t_admin;
 
